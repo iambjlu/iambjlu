@@ -1,5 +1,5 @@
 <h1>🍜 最喜歡吃拉麵的蘿蔔 🥕</h1><br>
--🇹🇼 Tainan, Taiwan.<br>
+-🇹🇼 台灣台南市 (Tainan City, Taiwan R.O.C.)<br>
 -🤭這傢伙什麼話也沒留下<br>
 -📷追蹤我的IG!!<a href="https://www.instagram.com/aj._.photos"> [ @aj._.photos_ ] </a><br>
 -📝看看我的部落格！！<a href="https://blog.steveyi.net/author/iambjlu"> [ 蘿蔔 - 我是小易 ] </a><br>
