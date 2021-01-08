@@ -10,7 +10,7 @@
 -📍台湾台南市<br>
 -🤭这家伙什么话也没留下<br>
 -📷追踪我的IG!!<a href="https://www.instagram.com/aj._.photos"> [ @aj._.photos_ ] </a><br>
--📝看看我的部落格(繁体字)！ ！ <a href="https://blog.steveyi.net/author/iambjlu"> [ 萝卜 - 我是小易 ] </a><br>
+-📝看看我的部落格！ ！ <a href="https://blog.steveyi.net/author/iambjlu"> [ 萝卜 - 我是小易 ] </a>(繁体字)<br>
 
 <br><br>
 
@@ -26,7 +26,7 @@
 <pre>🛻</pre>
 如果可以，表示你有最新的emoji! / 如果可以，表示你有最新的emoji! / If so, means that you've got the latest emoji!<br>
 
-<br><br>
+<br><br><br><br>
 
 <pre>最後更新：110年1月 / 最后更新：2021年1月 / Last update：Jan,2021</pre>
 
