@@ -23,8 +23,9 @@
 <br><br>
 
 <br><br><h2>你看得到以下符號嗎？ / 你看得到以下符号吗？ / Can you see the emoji below?</h2>
-<blockquote><h3>🛻</h3></blockquote>
+<blockquote><h3>🛻</h3>
 如果可以，表示你有最新的emoji! / 如果可以，表示你有最新的emoji! / If so, means that you've got the latest emoji!<br>
+</blockquote>
 
 <br><br><br><br>
 
