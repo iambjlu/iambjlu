@@ -23,8 +23,8 @@
 <br><br>
 
 <br><br><h2>你看得到以下符號嗎？ / 你看得到以下符号吗？ / Can you see the emoji below?</h2>
-<h3><pre>🛻</pre><h3>
-<h3><pre>如果可以，表示你有最新的emoji! / 如果可以，表示你有最新的emoji! /</pre><h3>
+<hㄉ><pre>🛻</pre></h2>
+<h3>如果可以，表示你有最新的emoji! / 如果可以，表示你有最新的emoji! /<h3>
 
 <!--
 **iambjlu/iambjlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
