@@ -1,7 +1,8 @@
-<h1>🍜 最喜歡吃拉麵的蘿蔔 🥕</h1>
--追蹤我的IG!!<a href="https://www.instagram.com/aj._.photos"> @aj._.photos_ </a>
--🤭這傢伙什麼話也沒留下
--🇹🇼 Tainan, Taiwan.
+<h1>🍜 最喜歡吃拉麵的蘿蔔 🥕</h1><b>
+-追蹤我的IG!!<a href="https://www.instagram.com/aj._.photos"> @aj._.photos_ </a><br>
+-🤭這傢伙什麼話也沒留下<br>
+-🇹🇼 Tainan, Taiwan.<br>
+-❌不太用Twitter跟Telegram<br>
 
 
 <!--
