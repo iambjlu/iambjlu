@@ -7,7 +7,7 @@
 <br><br>
 
 <h1>🍜 最喜欢吃拉面的萝卜 🥕</h1>
--🇹🇼台湾台南市<br>
+-📍台湾台南市<br>
 -🤭这家伙什么话也没留下<br>
 -📷追踪我的IG!!<a href="https://www.instagram.com/aj._.photos"> [ @aj._.photos_ ] </a><br>
 -📝看看我的部落格！ ！ <a href="https://blog.steveyi.net/author/iambjlu"> [ 萝卜 - 我是小易 ] </a><br>
