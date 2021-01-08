@@ -24,25 +24,9 @@
 
 <br><br><h2>你看得到以下符號嗎？ / 你看得到以下符号吗？ / Can you see the emoji below?</h2>
 <blockquote><h3>🛻</h3>
-如果可以，表示你有最新的emoji! / 如果可以，表示你有最新的emoji! / If so, means that you've got the latest emoji!<br>
 </blockquote>
+如果可以，表示你有最新的emoji! / 如果可以，表示你有最新的emoji! / If so, means that you've got the latest emoji!<br>
 
 <br><br><br><br>
 
 <pre>最後更新：110年1月 / 最后更新：2021年1月 / Last update：Jan,2021</pre>
-
-<!--
-**iambjlu/iambjlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
