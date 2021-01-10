@@ -16,7 +16,7 @@
 
 <h1>🍜 iambjlu (Luo Bo), who likes to eat Ramen the most 🥕</h1>
 -🇹🇼Tainan City, Taiwan R.O.C.<br>
--🤭This guy didn't left any words.<br>
+-🤭The guy didn't left any words.<br>
 -📷Follow my Insta!!<a href="https://www.instagram.com/aj._.photos"> [ @aj._.photos_ ] </a><br>
 
 
