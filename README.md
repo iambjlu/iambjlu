@@ -1,3 +1,4 @@
+<h1>⭐️ 置頂 / Pinned ⭐️</h1>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iambjlu&repo=dictionary)](https://github.com/iambjlu/dictionary)
 
 <h1>🍜 最喜歡吃拉麵的蘿蔔 🥕</h1>
