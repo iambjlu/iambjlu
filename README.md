@@ -1,3 +1,6 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iambjlu)](https://github.com/iambjlu)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iambjlu&repo=dictionary)](https://github.com/iambjlu/dictionary)
+
 <h1>🍜 最喜歡吃拉麵的蘿蔔 🥕</h1>
 -🇹🇼台灣台南市<br>
 -🤭這傢伙什麼話也沒留下<br>
