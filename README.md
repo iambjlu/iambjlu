@@ -1,4 +1,5 @@
-<h1>⭐️ 置頂 / Pinned ⭐️</h1>
+<pre>此頁面最後更新：110年1月 / 此页面最后更新：2021年1月 / Last update of this page：Jan,2021</pre>
+<br><h1>⭐️ 置頂 / Pinned ⭐️</h1>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iambjlu&repo=dictionary)](https://github.com/iambjlu/dictionary)
 <br><br>
@@ -32,6 +33,3 @@
 </blockquote>
 如果可以，表示你有最新的emoji! / 如果可以，表示你有最新的emoji! / If so, means that you've got the latest emoji!<br>
 
-<br><br><br><br>
-
-<pre>最後更新：110年1月 / 最后更新：2021年1月 / Last update：Jan,2021</pre>
