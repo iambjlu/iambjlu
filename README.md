@@ -1,5 +1,5 @@
 <pre>此頁面最後更新：110年1月 / 此页面最后更新：2021年1月 / Last update of this page：Jan,2021</pre>
-<br><h1>⭐️ 置頂 / Pinned ⭐️</h1>
+<h1>⭐️ 置頂 / Pinned ⭐️</h1>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iambjlu&repo=dictionary)](https://github.com/iambjlu/dictionary)
 <br><br>
