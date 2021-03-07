@@ -1,4 +1,4 @@
-<pre>此頁面最後更新：110年2月 / 此页面最后更新：2021年2月 / Last update of this page：2021</pre>
+<pre>此頁面最後更新：110年3月 / 此页面最后更新：2021年3月 / Last update of this page：2021</pre>
 <h1>⭐️ 置頂 / Pinned ⭐️</h1>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iambjlu&repo=dictionary)](https://github.com/iambjlu/dictionary)
@@ -31,5 +31,7 @@
 <br><br><h2>你看得到以下符號嗎？ / 你看得到以下符号吗？ / Can you see the emoji below?</h2>
 <blockquote><h3>🛻</h3>
 </blockquote>
-如果可以，表示你有最新的emoji! / 如果可以，表示你有最新的emoji! / If so, means that you've got the latest emoji!<br>
+如果可以，表示你有最新的emoji!<br>
+如果可以，表示你有最新的emoji!<br>
+If so, means that you've got the latest emoji!<br>
 
