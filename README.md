@@ -8,7 +8,8 @@
 -🇹🇼台灣台南市<br>
 -🤭這傢伙什麼話也沒留下<br>
 -📷追蹤我的IG!!<a href="https://www.instagram.com/aj._.photos"> [ @aj._.photos_ ] </a><br>
--📝看看我的部落格！！<a href="https://blog.steveyi.net/author/iambjlu"> [ 蘿蔔 - 我是小易 ] </a><br>
+-📝看看我的部落格！！<a href="https://iambjlu.blogspot.com"> [ 蘿蔔ㄉ部落格 ] </a><br>
+-👍來幫我新開的專頁按個讚吧！<a href="https://www.facebook.com/iambjlu.blog"> [ 蘿蔔ㄉ部落格 - Facebook Page ] </a><br>
 
 <br><br>
 
@@ -16,7 +17,8 @@
 -📍台湾台南市<br>
 -🤭这家伙什么话也没留下<br>
 -📷追踪我的IG!!<a href="https://www.instagram.com/aj._.photos"> [ @aj._.photos_ ] </a><br>
--📝看看我的部落格！ ！ <a href="https://blog.steveyi.net/author/iambjlu"> [ 萝卜 - 我是小易 ] </a>(繁体字)<br>
+-📝看看我的部落格！ ！<a href="https://iambjlu.blogspot.com"> [ 蘿蔔ㄉ部落格 ] </a>(繁体字)<br>
+-👍来帮我新开的专页按个赞吧！<a href="https://www.facebook.com/iambjlu.blog"> [萝卜ㄉ部落格-Facebook页面] </a>(繁体字)<br>
 
 <br><br>
 
