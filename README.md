@@ -1,8 +1,12 @@
-<pre>此頁面最後更新：110年3月 / 此页面最后更新：2021年3月 / Last update of this page：2021</pre>
+<pre>此頁面最後更新：110年6月 / 此页面最后更新：2021年6月 / Last update of this page：2021/6</pre>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambjlu&hide=stars,issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambjlu)](https://github.com/iambjlu)
+
 <h1>⭐️ 置頂 / Pinned ⭐️</h1>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iambjlu&repo=NoMoreMacOSUpdate)](https://github.com/iambjlu/NoMoreMacOSUpdate)
-<br>
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iambjlu&repo=dictionary)](https://github.com/iambjlu/dictionary)
 <br><br>
 
@@ -38,4 +42,4 @@
 如果可以，表示你有最新的emoji!<br>
 如果可以，表示你有最新的emoji!<br>
 If so, means that you've got the latest emoji!<br>
-
+<br>
