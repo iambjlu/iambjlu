@@ -1,4 +1,4 @@
-<pre>此頁面最後更新：110年6月 / 此页面最后更新：2021年6月 / Last update of this page：2021/6</pre>
+<pre>此頁面最後更新：111年2月 / 此页面最后更新：2022年2月 / Last update of this page：2022/2</pre>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambjlu&hide=stars,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambjlu)](https://github.com/iambjlu)
@@ -37,7 +37,7 @@
 <br><br>
 
 <br><br><h2>你看得到以下符號嗎？ / 你看得到以下符号吗？ / Can you see the emoji below?</h2>
-<blockquote><h3>🛻</h3>
+<blockquote><h3>🫣</h3>
 </blockquote>
 如果可以，表示你有最新的emoji!<br>
 如果可以，表示你有最新的emoji!<br>
