@@ -1,16 +1,5 @@
 <pre>此頁面最後更新：112年11月 / Last update of this page：2023/11</pre>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambjlu&hide=stars,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambjlu)](https://github.com/iambjlu)
-
-<h1>⭐️ 置頂 / Pinned ⭐️</h1>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iambjlu&repo=NoMoreMacOSUpdate)](https://github.com/iambjlu/NoMoreMacOSUpdate)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iambjlu&repo=dictionary)](https://github.com/iambjlu/dictionary)
-
-
-<hr>
 
 <h1>蘿蔔 🥕</h1>
 -🙋‍♂️<a href="https://gdsc-stust.web.app">Google 學生開發者社群(GDSC) STUST</a> Co-lead<br>
