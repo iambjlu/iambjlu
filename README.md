@@ -15,6 +15,6 @@
 <h1>iambjlu 🥕</h1>
 -🙋‍♂️ <a href="https://gdsc.community.dev/southern-taiwan-university-of-science-and-technology/">Google Developer Student Clubs STUST</a> Lead 2024-26<br>
 -🇹🇼 Tainan City, Taiwan R.O.C.<br>
--👨‍💻 Learning: Web(HTML,PHP,JS,MySQL,vue), Android(Kotlin), Flutter, Swift
+-👨‍💻 Learning: Web(HTML,PHP,JS,MySQL,vue), Android(Kotlin), Flutter, Swift<br>
 -☁️ Google Cloud Certified: Associate Cloud Engineer
 
